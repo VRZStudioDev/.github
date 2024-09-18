@@ -38,7 +38,7 @@ Confira nossos principais projetos e colaborações. Estamos sempre prontos para
 - 🌐 **Site**: VRZ-Studio(https://vrz-studio.tech)
 - 📱 **Redes Sociais**: 
   - Instagram: @visione.rifatta(https://www.instagram.com/visione.rifatta)
-  - LinkedIn: [@suaempresa](https://www.linkedin.com/company/suaempresa)
+ 
 
 ---
 
